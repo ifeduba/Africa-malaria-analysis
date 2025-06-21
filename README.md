@@ -13,5 +13,15 @@ By combining health, demographic, and environmental data, the dataset offers val
 - 	mapping malaria incidence geographical across Africa
 
   # skills and concept demostrated
+
+  The following excel and tableau features were incoporated:
+- Data gathering
+- Data cleaning and transformation
+- Data visualization
+- Quick measures and dashboard automation.
+
+  # Visualization
+  
+
   
   
